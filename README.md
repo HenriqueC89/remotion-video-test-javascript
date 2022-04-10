@@ -1,12 +1,7 @@
-# Remotion video
+# Remotion video test
 
-<p align="center">
-  <a href="https://github.com/JonnyBurger/remotion-logo">
-    <img src="https://github.com/JonnyBurger/remotion-logo/raw/main/withtitle/element-0.png">
-  </a>
-</p>
-
-Welcome to your Remotion project!
+Simple test project made using Remotion[Remotion](https://www.remotion.dev).
+The resulting video can be seen on the _out/_ folder
 
 ## Commands
 
