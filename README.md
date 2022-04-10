@@ -1,7 +1,9 @@
 # Remotion video test
 
-Simple test project made using Remotion[Remotion](https://www.remotion.dev).
+Simple test project made using [Remotion](https://www.remotion.dev).
 The resulting video can be seen on the _out/_ folder
+
+Below is part of the original README that was generated with the initial project installation.
 
 ## Commands
 
